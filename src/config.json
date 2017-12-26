@@ -1,0 +1,10 @@
+{
+"sgHostname":"127.0.0.1",
+"sgPort":"4985",
+"sgDb":"db",
+"sgSecure":false,
+"mHostname":"localhost",
+"mPort":"80",
+"mRestApi":"/index.php/rest/V1",
+"debug":true
+}
